@@ -5,6 +5,8 @@ VisualStudioVersion = 17.7.34024.191
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "merge-sorted-array", "Leetcode-problem-study\merge-sorted-array.csproj", "{97F2DE78-1E34-44EE-AE35-752C1178FDB8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "remove-element", "remove-element\remove-element.csproj", "{96D78E48-55A9-4434-B8DB-FF0545F92DDA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{97F2DE78-1E34-44EE-AE35-752C1178FDB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{97F2DE78-1E34-44EE-AE35-752C1178FDB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{97F2DE78-1E34-44EE-AE35-752C1178FDB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96D78E48-55A9-4434-B8DB-FF0545F92DDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96D78E48-55A9-4434-B8DB-FF0545F92DDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96D78E48-55A9-4434-B8DB-FF0545F92DDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96D78E48-55A9-4434-B8DB-FF0545F92DDA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
