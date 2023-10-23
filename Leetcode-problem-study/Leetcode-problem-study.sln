@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "merge-sorted-array", "Leetc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "remove-element", "remove-element\remove-element.csproj", "{96D78E48-55A9-4434-B8DB-FF0545F92DDA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "remove-duplicate", "remove-duplicate\remove-duplicate.csproj", "{D38BEA14-E495-4DF5-81EB-C30F90B9C315}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{96D78E48-55A9-4434-B8DB-FF0545F92DDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{96D78E48-55A9-4434-B8DB-FF0545F92DDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{96D78E48-55A9-4434-B8DB-FF0545F92DDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D38BEA14-E495-4DF5-81EB-C30F90B9C315}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D38BEA14-E495-4DF5-81EB-C30F90B9C315}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D38BEA14-E495-4DF5-81EB-C30F90B9C315}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D38BEA14-E495-4DF5-81EB-C30F90B9C315}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
